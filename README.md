@@ -1,13 +1,13 @@
-# Voice Dataset (kerstin)
+# Voice Dataset (nathalie)
 
-High quality recording of phonetically diverse prompts by a native female German speaker.
+High quality recording of phonetically diverse prompts by a native female Dutch speaker.
 
 Original audio is available in the `audio` directory (`.webm`).
 Trimmed/cleaned audio is available in the `verified` directory (`.flac`).
 
 ## Dataset
 
-* Utterances: 1,374
+* Utterances: 1,131
 * Transcriptions: yes (see metadata.csv)
 
 ## Recording Details
@@ -19,7 +19,7 @@ Trimmed/cleaned audio is available in the `verified` directory (`.flac`).
 
 ## Demographics
 
-* Language: German
+* Language: Dutch
 * Native speaker: yes
 * Gender: female
 
